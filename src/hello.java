@@ -17,6 +17,7 @@ public class hello {
 		
 		System.out.println("Hello Denise!");
 
+		System.out.println("Hello Ester!");
 	}
 
 }
