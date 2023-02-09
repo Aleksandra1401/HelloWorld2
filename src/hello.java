@@ -5,12 +5,13 @@ public class hello {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		//instantiate date object
+
+		    //date object
         Date current_Date = new Date();
- 
-        //print current date
+
+        //display time
         System.out.println(current_Date);
-		
+
 	}
 
 }
